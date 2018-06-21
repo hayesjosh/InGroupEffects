@@ -15,11 +15,11 @@ to "relative" values:
 
 That allows me to ask all sorts of interesting questions such as, "Does being a member of a country's dominant religion have an influence? Do Protestants in the United States have significant similarities to Muslims in Morocco because they both are members of the historically dominant religions?" and "What about being a member of a minority religion? Do Muslims in the United States and Christians in India tend to feel the same because they both have to contend with being members of minority religions within their society?" 
 
-In one chapter of my dissertation, I use this framework to test the following questions across numerous nations and years:
+#### In part of my dissertation, I use this framework to test the following questions across 38+ nations and 15+ years:
 
-     1. Do citizens and non-citizens differ on how they see the importance of citizenship to be a "true member of the nation"?
-     2. Do members of dominant religions and minority religions differ on how they see the importance of being a member of the dominant religion in order to be a "true member of the nation"?
-     3. Are either of the above relationships changing over time? Are groups becoming more divided? Or agreeing more?
+1. Do citizens and non-citizens differ on how they see the importance of citizenship to be a "true member of the nation"?
+2. Do members of dominant religions and minority religions differ on how they see the importance of being a member of the dominant religion in order to be a "true member of the nation"?
+3. Are either of the above relationships changing over time? Are groups becoming more divided? Or agreeing more?
 
 I found the results quite interesting! Here you can see my Stata code and a sample of my resulting analyses. 
 
